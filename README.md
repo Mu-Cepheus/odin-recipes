@@ -1,0 +1,1 @@
+Doing entirety of Odin project until server side js with node. Starting with this.
